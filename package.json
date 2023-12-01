@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Advent of code",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamChatfield/advent-of-code.git"
+  },
+  "author": "Sam Chatfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamChatfield/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/SamChatfield/advent-of-code#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.1.0"
+  }
+}
